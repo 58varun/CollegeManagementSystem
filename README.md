@@ -1,7 +1,11 @@
-# CollegeManagementSystem
-Project completed under 15IT302J DBMS
+College Management System
+===================================================
+I made this project using php and Bootstrap framework during my college session.
 
-# Reference Taken
--->http://rajendra.co.nf/
--->https://github.com/rajendraarora16/College-Management-System
+If you want to see demo, Visit here:
 
+# [DEMO](http://www.rajendra.co.nf)
+
+`Username: admin`
+
+`password: admin`
