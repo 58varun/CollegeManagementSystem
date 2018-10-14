@@ -1,11 +1,7 @@
-College Management System
-===================================================
-I made this project using php and Bootstrap framework during my college session.
+# College Management System
+Project completed by Aayush Kumar, Harish Kumar and Varun Dutta for the course 15IT302J Database and Managemnet System at SRMIST (formerly known as SRM University). 
 
-If you want to see demo, Visit here:
+# Reference Taken
+>https://github.com/rajendraarora16/College-Management-System and >http://rajendra.co.nf/
 
-# [DEMO](http://www.rajendra.co.nf)
-
-`Username: admin`
-
-`password: admin`
+# Requirements 
